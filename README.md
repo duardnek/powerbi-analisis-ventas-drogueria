@@ -2,8 +2,10 @@
 
 ## Descripción del proyecto
 
-Este proyecto consiste en el desarrollo de un dashboard de Business Intelligence en Power BI para analizar el desempeño comercial de las ventas de una droguería durante el **cuarto trimestre del 2024 (octubre – diciembre).
+Este proyecto consiste en el desarrollo de un dashboard de Business Intelligence en Power BI para analizar el desempeño comercial de las ventas de una droguería durante el cuarto trimestre del 2024 (octubre – diciembre).
+
 El análisis busca explorar el comportamiento de las ventas, identificar los productos más vendidos, analizar el rendimiento de los vendedores y evaluar el impacto de las devoluciones en los resultados comerciales.
+
 Este proyecto fue desarrollado como parte de mi formación en Power BI y análisis de datos.
 
 ---
@@ -20,11 +22,11 @@ Este proyecto fue desarrollado como parte de mi formación en Power BI y anális
 
 ## Herramientas utilizadas
 
-- **Power BI**
-- **Power Query**
-- **DAX**
-- **Modelado de datos**
-- **Excel**
+- Power BI
+- Power Query
+- DAX
+- Modelado de datos
+- Excel
 
 ---
 
@@ -81,7 +83,7 @@ Proyecto desarrollado por el **Grupo 10**:
 
 ## Autor del repositorio
 
-**- Eduardo Castro Quicaña**
+Eduardo Castro Quicaña
 
 Estudiante de Ingeniería de Sistemas con interés en Análisis de Datos y Business Intelligence.
 
