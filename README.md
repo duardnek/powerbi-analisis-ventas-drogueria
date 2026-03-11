@@ -71,7 +71,7 @@ Algunas mejoras que podrían incorporarse al proyecto:
 
 ## Equipo de trabajo
 
-Proyecto desarrollado por el **Grupo 10**:
+Proyecto desarrollado por el Grupo 10:
 
 - Eduardo Franco Castro Quicaña  
 - Juan Pablo Mendoza Granda  
